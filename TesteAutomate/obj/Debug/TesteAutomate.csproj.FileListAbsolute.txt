@@ -1,0 +1,10 @@
+C:\Users\Familia\Desktop\Teste Automate Brasil\TesteAutomate\TesteAutomate\bin\Debug\TesteAutomate.exe.config
+C:\Users\Familia\Desktop\Teste Automate Brasil\TesteAutomate\TesteAutomate\bin\Debug\TesteAutomate.exe
+C:\Users\Familia\Desktop\Teste Automate Brasil\TesteAutomate\TesteAutomate\bin\Debug\TesteAutomate.pdb
+C:\Users\Familia\Desktop\Teste Automate Brasil\TesteAutomate\TesteAutomate\bin\Debug\FileHelpers.dll
+C:\Users\Familia\Desktop\Teste Automate Brasil\TesteAutomate\TesteAutomate\bin\Debug\FileHelpers.xml
+C:\Users\Familia\Desktop\Teste Automate Brasil\TesteAutomate\TesteAutomate\obj\Debug\TesteAutomate.csprojAssemblyReference.cache
+C:\Users\Familia\Desktop\Teste Automate Brasil\TesteAutomate\TesteAutomate\obj\Debug\TesteAutomate.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Desktop\Teste Automate Brasil\TesteAutomate\TesteAutomate\obj\Debug\TesteAutomate.csproj.CopyComplete
+C:\Users\Familia\Desktop\Teste Automate Brasil\TesteAutomate\TesteAutomate\obj\Debug\TesteAutomate.exe
+C:\Users\Familia\Desktop\Teste Automate Brasil\TesteAutomate\TesteAutomate\obj\Debug\TesteAutomate.pdb
